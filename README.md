@@ -184,8 +184,8 @@ Download Link : https://www.apachefriends.org/download.html
 
 
 # Application Version with source  :
-         STC Assist v1.7 
-         Github Repository   :               
+         STC Assist v1.7 : https://drive.google.com/drive/folders/1bqUrdHEVoKlnJXY_NCkzHG0ACS-daxn3?usp=sharing
+         Github Repository   :   https://github.com/mahfuzur-mafu/STC-Assist-v1.7            
 
 
 
