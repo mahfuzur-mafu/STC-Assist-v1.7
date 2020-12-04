@@ -65,6 +65,8 @@ viii) Got to CA(Delete) : Through this page, the admin can delete the registered
 ![deleteca](https://user-images.githubusercontent.com/63856744/101148882-5fef5e00-3648-11eb-9f32-5e098838e65f.png)
                       
 ix) Got to CA(View) : The details of the registered ca can be found through this page. If an admin wants, it can be see by Division separately and can see all the data at once.
+
+
 ![view2](https://user-images.githubusercontent.com/63856744/101148975-7f868680-3648-11eb-99e8-a366cb64ef8f.png)
       
 
