@@ -18,7 +18,7 @@ You can find out all the details of the organization through the home page.
 
 # Social Page : 
 Through this page you will find links to all the social sites of the organization.
-![Screenshot (592)](https://user-images.githubusercontent.com/63856744/101078896-f8e29280-35d0-11eb-8138-2cd00160787a.png)
+![image](https://user-images.githubusercontent.com/63856744/101171544-1b74ba00-366a-11eb-9f25-c8b1f5f65376.png)
 
              
 # Event Page :
