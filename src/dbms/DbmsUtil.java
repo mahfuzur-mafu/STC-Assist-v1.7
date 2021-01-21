@@ -34,6 +34,5 @@ public class DbmsUtil {
 
     public static TableModel resultSetToTableModel(ResultSet rs) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
+    }    
 }
