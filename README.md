@@ -232,7 +232,6 @@ This was a great experience doing this project. This project was intended to mak
 
 
 
-
 STC Assist © Fantastic Four 
 ©2020 Fantastic Four. All rights reserved
 
