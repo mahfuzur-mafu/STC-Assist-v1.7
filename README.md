@@ -1,4 +1,4 @@
-# Project Name : STC-Assist-v1.7
+# Project Name : STC-Assist v1.7
 
 
 # Description : 
