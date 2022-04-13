@@ -1,31 +1,31 @@
 # Project Name : STC-Assist v1.7
 
 
-# Description : 
+# Description 
 Our application will basically handle all the work of an organization. Where all the information of the organization will be given, social link will be given. Its next day's event and all its events will be shown. There will also be login option, the first admin login where the admin will login with his code. People registered by admin can login using other login options. Here will be the introduction of the members of the organization.
 
 
                                         
-# Title Page : 
+# Title Page  
 Title Page will help you to go the Home Page.
 ![Screenshot (591)](https://user-images.githubusercontent.com/63856744/101078489-75c13c80-35d0-11eb-8092-a23ec26b079f.png)
 
                       
-# Home Page : 
+# Home Page 
 You can find out all the details of the organization through the home page.
 ![Screenshot (717)](https://user-images.githubusercontent.com/63856744/101078809-dbadc400-35d0-11eb-9a08-d54d63456bce.png)
               
 
-# Social Page : 
+# Social Page  
 Through this page you will find links to all the social sites of the organization.
 ![image](https://user-images.githubusercontent.com/63856744/101171544-1b74ba00-366a-11eb-9f25-c8b1f5f65376.png)
 
              
-# Event Page :
+# Event Page 
  This page will update the organization's previous and Future events that will be managed directly from the admin panel.
 ![Event Page](https://user-images.githubusercontent.com/63856744/101147814-0b97ae80-3647-11eb-93b8-33c16678970b.png)
 
-# Log in : 
+# Log in 
 This page allows admins and registered users to login and perform their tasks.
 ![DataPage](https://user-images.githubusercontent.com/63856744/101147831-118d8f80-3647-11eb-9f32-b84d141dc26a.png)
 
@@ -91,18 +91,18 @@ iv) View : The details of the registered ca can be found through this page. If a
 v) Sign Out : You will land in the data page  by clicking on the sign out option and you will be automatically signed out.
                             
 
-# Publications :
+# Publications 
  In this option, the publication files published by the organization will be available in PDF format. And those files can be downloaded.
  ![Publications Page ](https://user-images.githubusercontent.com/63856744/101149415-1e12e780-3649-11eb-8dd9-4730b7f22f78.png)   
   
-# Members : 
+# Members 
 A list of all the members associated with the organization and their social links can be found in this option.   
 ![Members Page](https://user-images.githubusercontent.com/63856744/101149437-22d79b80-3649-11eb-8a70-1d9a8316c1c3.png)
 
-# Developers :
+# Developers 
 The option provides information on the members involved in creating this application, as well as information on the course teacher.
  ![Developers Page](https://user-images.githubusercontent.com/63856744/101149448-25d28c00-3649-11eb-9cf2-8510133c9978.png)                            
-# Some Special Features :
+# Some Special Features 
 i)	Title Button : Clicking on the Home button will take you to the Title button. It will not able to work after log in.
 
 
@@ -112,7 +112,7 @@ i)	Title Button : Clicking on the Home button will take you to the Title button.
 ii)	Back Button : After Admin Log in Clicking on the Back button will take you to the Admin Panel                                
  ![back](https://user-images.githubusercontent.com/63856744/101150032-e8223300-3649-11eb-93c9-9717fdceee69.png)  
 
-# Database Connection: 
+# Database Connection 
 After installing XAMPP, you need to log in to XAMPP and start its Apache and MySQL databases. Then by clicking on My SQL Admin we will get our desired database
  
 ![image](https://user-images.githubusercontent.com/63856744/101151057-53203980-364b-11eb-8ab2-a36695bd7430.png)
@@ -183,7 +183,7 @@ Download Link : https://www.apachefriends.org/download.html
 
 
 
-# Application Version with source  :
+# Application Version with source  
          STC Assist v1.7 : https://drive.google.com/drive/folders/1bqUrdHEVoKlnJXY_NCkzHG0ACS-daxn3?usp=sharing
          Github Repository   :   https://github.com/mahfuzur-mafu/STC-Assist-v1.7            
 
@@ -193,7 +193,7 @@ Download Link : https://www.apachefriends.org/download.html
 
 
 
-# Future Update :
+# Future Update 
 •	Search from Database
 
 
@@ -202,7 +202,7 @@ Download Link : https://www.apachefriends.org/download.html
 
 •	Move into Web and Android Application
 
-#  Challenges Faced :
+#  Challenges Faced 
 •	Faced error connecting into Database.
 
 
@@ -220,7 +220,7 @@ Download Link : https://www.apachefriends.org/download.html
 
 •	Faced Some Little bugs.
 
-# Conclusion : 
+# Conclusion  
 This was a great experience doing this project. This project was intended to make the organization system easier and reliable. I hope the intention of the program gets full filled. It will greatly help the organization that are little and are growing. The full scale version update of this program will be applicable to many organizations. The challenges we faced and the learning we have gone through will come in great help in the future.
 
                
@@ -229,19 +229,7 @@ This was a great experience doing this project. This project was intended to mak
 
 
 
-
-
-
 STC Assist © Fantastic Four 
 ©2020 Fantastic Four. All rights reserved
-
-
-
-
-
-
-
- 
-
 
 
