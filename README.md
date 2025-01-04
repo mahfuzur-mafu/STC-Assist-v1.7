@@ -2,7 +2,7 @@
 
 
 # Description : 
-Our application will basically handle all the work of an organization. Where all the information of the organization will be given, social link will be given. Its next day's event and all its events will be shown. There will also be login option, the first admin login where the admin will login with his code. People registered by admin can login using other login options. Here will be the introduction of the members of the organization.
+This application is basically handle all the work of an organization. Where all the information of the organization will be given, social link will be given. Its next day's event and all its events will be shown. There will also be login option, the first admin login where the admin will login with his code. People registered by admin can login using other login options. Here will be the introduction of the members of the organization.
 
 
                                         
